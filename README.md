@@ -17,8 +17,8 @@ visual Studio code , intellij IDEA 코드복사 후 실행 <br>
 ![image](https://github.com/user-attachments/assets/c50141e3-30e2-411c-8e9b-9584adebd5cc)<br>
 
 0번 뒤로 가기<br>
-![image](https://github.com/user-attachments/assets/74d7a39c-b2bc-4bb5-8f65-cab6cedc9fe7)<br><br>
-
+![image](https://github.com/user-attachments/assets/74d7a39c-b2bc-4bb5-8f65-cab6cedc9fe7)<br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/2b75ac36-b2ee-49ff-b618-1d2bb29298d9)<br>
 버거 메뉴<br>
