@@ -1,8 +1,9 @@
 # kiosk
 <br>
 ✨ 기능 <br>
-✅  <br>
-✅  <br>
+✅  버거 메뉴 기능<br>
+✅  버거 상세 정보표기<br>
+✅  뒤로가기 및 종료 버튼<br>
 <br>
 🚀 사용 방법 <br>
 visual Studio code , intellij IDEA 코드복사 후 실행 <br>
@@ -18,7 +19,6 @@ visual Studio code , intellij IDEA 코드복사 후 실행 <br>
 
 0번 뒤로 가기<br>
 ![image](https://github.com/user-attachments/assets/74d7a39c-b2bc-4bb5-8f65-cab6cedc9fe7)<br>
-<br>
 
 ![image](https://github.com/user-attachments/assets/2b75ac36-b2ee-49ff-b618-1d2bb29298d9)<br>
 버거 메뉴<br>
